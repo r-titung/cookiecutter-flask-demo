@@ -14,7 +14,7 @@
 
 ## Cookiecutter Project structure
 
-    ├── cookiecutter-flask
+    ├── cookiecutter-flask-demo
         ├── cookiecutter.json
         ├── README.md
         ├── {{cookiecutter.app_name.lower() | replace(' ', '_') | replace('-', '_')}}
