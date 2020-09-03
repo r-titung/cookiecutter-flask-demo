@@ -9,7 +9,7 @@
 2. Generate the boilerplate
 
   ```bash
-  cookiecutter https://github.com/rtitung95/cookiecutter-flask.git
+  cookiecutter https://github.com/r-titung/cookiecutter-flask-demo.git
   ```
 
 ## Cookiecutter Project structure
